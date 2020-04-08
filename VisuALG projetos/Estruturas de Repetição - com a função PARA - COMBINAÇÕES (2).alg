@@ -1,8 +1,8 @@
-algoritmo "Estruturas repetição - COM A FUNÇÃO PARA - VETOR"
-// Função : aula 11 Guanabara - Algoritmos
+algoritmo "Estruturas repetiï¿½ï¿½o - COM A FUNï¿½ï¿½O PARA - VETOR"
+// Funï¿½ï¿½o : aula 11 Guanabara - Algoritmos
 // Autor : Alessandro
 // Data : 27/12/2016
-//aplicar combinações com os número 1, 2, 3.
+//aplicar combinaï¿½ï¿½es com os nï¿½mero 1, 2, 3.
 var
   combinacao1, combinacao2, n1, n2, n3: Inteiro
 inicio
@@ -10,11 +10,11 @@ escreval("----------------------------------------------")
 escreval("  ***         MATRIZ VETORIAL             *** ")
 escreval("----------------------------------------------")
 ESCREVAL()
-   ESCREVA("1° NÚMERO DA COMBINAÇÃO: ")
+   ESCREVA("1ï¿½ Nï¿½MERO DA COMBINAï¿½ï¿½O: ")
    LEIA(n1)
-   ESCREVA("2° NÚMERO DA COMBINAÇÃO: ")
+   ESCREVA("2ï¿½ Nï¿½MERO DA COMBINAï¿½ï¿½O: ")
    LEIA(n2)
-   ESCREVA("3° NÚMERO DA COMBINAÇÃO: ")
+   ESCREVA("3ï¿½ Nï¿½MERO DA COMBINAï¿½ï¿½O: ")
    LEIA(n3)
    Para combinacao1:= n1 ate n3 faca
       Para combinacao2:= n1 ate n3 faca
@@ -22,7 +22,7 @@ ESCREVAL()
       FimPara
    FimPara
 escreval("----------------------------------------------")
-escreval("  ***           FIM DA FUNÇÃO             *** ")
+escreval("  ***           FIM DA FUNï¿½ï¿½O             *** ")
 escreval("----------------------------------------------")
 
 fimalgoritmo
